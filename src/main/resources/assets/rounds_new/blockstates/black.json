@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "rounds_new:block/black"
+    },
+    "facing=east": {
+      "model": "rounds_new:block/black",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "rounds_new:block/black",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "rounds_new:block/black",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "rounds_new:block/black",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "rounds_new:block/black",
+      "x": 90
+    }
+  }
+}

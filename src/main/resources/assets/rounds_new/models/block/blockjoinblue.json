@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "rounds_new:block/cold",
+    "up": "rounds_new:block/cold",
+    "north": "rounds_new:block/cold",
+    "east": "rounds_new:block/cold",
+    "south": "rounds_new:block/cold",
+    "west": "rounds_new:block/cold",
+    "particle": "rounds_new:block/cold"
+  },
+  "render_type": "solid"
+}

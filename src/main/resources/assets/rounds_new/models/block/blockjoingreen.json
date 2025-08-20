@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "rounds_new:block/poison",
+    "up": "rounds_new:block/poison",
+    "north": "rounds_new:block/poison",
+    "east": "rounds_new:block/poison",
+    "south": "rounds_new:block/poison",
+    "west": "rounds_new:block/poison",
+    "particle": "rounds_new:block/poison"
+  },
+  "render_type": "solid"
+}

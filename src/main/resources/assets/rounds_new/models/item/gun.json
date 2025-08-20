@@ -1,0 +1,6 @@
+{
+  "parent": "rounds_new:displaysettings/bb",
+  "textures": {
+    "layer0": "rounds_new:item/piton"
+  }
+}

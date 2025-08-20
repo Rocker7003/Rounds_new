@@ -1,0 +1,66 @@
+{
+  "shoot": {
+    "sounds": [
+      {
+        "name": "rounds_new:shumnyiy-odinochnyiy-vyistrel",
+        "stream": false
+      }
+    ]
+  },
+  "heal": {
+    "sounds": [
+      {
+        "name": "rounds_new:2023-04-26-17-44-55",
+        "stream": false
+      }
+    ]
+  },
+  "shoot_reclipse": {
+    "sounds": [
+      {
+        "name": "rounds_new:e022031c6c8ed1bdasasd",
+        "stream": false
+      }
+    ]
+  },
+  "sound1": {
+    "sounds": [
+      {
+        "name": "rounds_new:sound1",
+        "stream": false
+      }
+    ]
+  },
+  "sound2": {
+    "sounds": [
+      {
+        "name": "rounds_new:sound2",
+        "stream": false
+      }
+    ]
+  },
+  "sound3": {
+    "sounds": [
+      {
+        "name": "rounds_new:sound3",
+        "stream": false
+      }
+    ]
+  },
+  "sound4": {
+    "sounds": [
+      {
+        "name": "rounds_new:sound4",
+        "stream": false
+      }
+    ]
+  },
+  "sound5": {
+    "sounds": [
+      {
+        "name": "rounds_new:sound5",
+        "stream": false
+      }
+    ]
+  }
+}

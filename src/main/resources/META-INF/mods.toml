@@ -1,0 +1,44 @@
+# Название загрузчика модов
+modLoader = "javafml" #обязательно
+
+# Диапазон версий загрузчика. Для Forge 1.20.1 это 47 и выше.
+loaderVersion = "[47,)" #обязательно
+
+# Лицензия вашего мода.
+license = "All Rights Reserved" #обязательно
+
+# Список модов
+[[mods]] #обязательно
+
+# ID вашего мода. ДОЛЖЕН БЫТЬ В НИЖНЕМ РЕГИСТРЕ.
+modId = "rounds_new" #обязательно
+
+# Версия мода
+version = "1.0.0" #обязательно
+
+# Отображаемое имя мода
+displayName = "Rounds New" #обязательно
+
+# Авторы мода
+authors = "Rocker7003, Ifrit" #опционально
+
+# Описание мода
+description = '''
+Это мод был сделан на мскреаторе но я переделал точнее я сделал в декомпиляторе и все что я хотел сделать это починить ебанный мод
+''' #обязательно
+
+# Зависимость от Forge
+[[dependencies.rounds_new]]
+modId = "forge"
+mandatory = true
+versionRange = "[47,)"
+ordering = "NONE"
+side = "BOTH"
+
+# Зависимость от Minecraft
+[[dependencies.rounds_new]]
+modId = "minecraft"
+mandatory = true
+versionRange = "[1.20.1,1.21)"
+ordering = "NONE"
+side = "BOTH"
